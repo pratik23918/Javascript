@@ -21,3 +21,8 @@ function lifeInWeeks(age) {
 
 }
 lifeInWeeks(12);
+// bmi calc
+function calcbmi(weight,height){
+    var result=(weight)/(height*height);
+    return Math.round(resut);
+}
