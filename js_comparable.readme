@@ -1,0 +1,19 @@
+1.=== is used to check for equality
+2. !=
+3.&& AND
+4.|| OR
+Note- diff between == and ===
+==-> this is just to check the value
+===-> this is used check the typeof datatypes
+ex: a=1
+b="1"
+if(a===b)
+yes;
+else
+no;
+ouput=no
+if(a==b)
+yes;
+else 
+no
+output yes' 
